@@ -1,3 +1,7 @@
+---
+layout : single
+title : "2022-04-11-RECOLLECTION"
+---
 # 4월 11일 (월)
 
 ## 😃 일일회고
