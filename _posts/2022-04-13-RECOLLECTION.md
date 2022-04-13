@@ -1,3 +1,8 @@
+---
+layout : single
+title : "2022-04-13-RECOLLECTION"
+---
+
 # 4월 13일 (수)
 
 ## 😄 일일회고
