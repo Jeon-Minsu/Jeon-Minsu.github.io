@@ -1,3 +1,8 @@
+---
+layout : single
+title : "2022-04-25-RECOLLCETION"
+---
+
 # 4월 25일 (월)
 
 ## 😨 일일회고
