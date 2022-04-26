@@ -1,3 +1,8 @@
+---
+layout : single
+title : "2022-04-26-RECOLLCETION"
+---
+
 # 4월 26일 (화)
 
 ## 🤗 일일회고
