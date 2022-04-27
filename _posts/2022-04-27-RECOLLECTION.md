@@ -1,3 +1,8 @@
+---
+layout : single
+title : "2022-04-27-RECOLLCETION"
+---
+
 # 4월 27일 (수)
 
 ## 🤗 일일회고
